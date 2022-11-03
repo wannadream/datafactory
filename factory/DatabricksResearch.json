@@ -1,0 +1,9 @@
+{
+	"name": "DatabricksResearch",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9653982-0330-4e11-afe7-54ea78e0598d",
+		"tenantId": "89e1c723-9d3e-44f4-8488-be69e6a3c400"
+	}
+}
