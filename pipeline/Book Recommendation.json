@@ -309,7 +309,7 @@
 				}
 			},
 			{
-				"name": "Failure Notification",
+				"name": "Send Failure Notification",
 				"type": "WebActivity",
 				"dependsOn": [
 					{
