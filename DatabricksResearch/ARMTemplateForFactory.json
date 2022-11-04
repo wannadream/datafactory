@@ -275,7 +275,7 @@
 									},
 									"userProperties": [],
 									"typeProperties": {
-										"notebookPath": "/Users/lukewang831206@gmail.com/book_recommendation",
+										"notebookPath": "/Repos/lukewang831206@gmail.com/databricks/book_recommendation",
 										"baseParameters": {
 											"userId": "123"
 										}
@@ -305,7 +305,7 @@
 									},
 									"userProperties": [],
 									"typeProperties": {
-										"notebookPath": "/Users/lukewang831206@gmail.com/mounting"
+										"notebookPath": "/Repos/lukewang831206@gmail.com/databricks/mounting"
 									},
 									"linkedServiceName": {
 										"referenceName": "AzureDatabricks1",
